@@ -1,0 +1,10 @@
+.displayMain {
+    text-align: center;
+    position: relative;
+    left: 32.5%;
+    width: 35%;
+}
+
+.listGroup {
+    margin: 0 10px;
+}
